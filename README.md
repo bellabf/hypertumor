@@ -6,7 +6,7 @@ There is also a report I wrote for the discipline (report.pdf)
 ## Current Status
 This project is not finished as I am still revising some of the previous functions. 
 
-## To DO
+## To do:
  * Re-write report for clarity
  * Optmize the code by removing the plotting 
  * Keep track of all parameters evolution and time of converge by putting everthing on a df 
