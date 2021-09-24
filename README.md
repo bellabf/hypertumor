@@ -10,5 +10,5 @@ This project is not finished as I am still revising some of the previous functio
  * Re-write report for clarity
  * Optmize the code by removing the plotting 
  * Keep track of all parameters evolution and time of converge by putting everthing on a df 
- * Compare parameters values and to see if there is actually two optimal solutions to this problems
+ * Compare parameters values and to see if there is actually two optimal solutions to this 
  * Fix borders to not allow changes in value (=no cancer allow on the perimeter)
